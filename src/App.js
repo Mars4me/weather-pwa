@@ -54,7 +54,7 @@ const App = () => {
             {reqHistory[1] && (
                 <div
                     className="city fade-in-animation"
-                    style={{ flexDirection: 'row', gap: '8px', padding: '10px 4%', fontSize: '.6rem' }}
+                    style={{ flexDirection: 'row', gap: '8px', padding: '10px 15px', fontSize: '.6rem' }}
                 >
                     {reqHistory.map((historyWeather) => (
                         <div
