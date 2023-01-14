@@ -17,7 +17,8 @@ body,
 }
 
 .main-container {
-    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.418)), url('http://localhost:3000/images/bg.webp');
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.418)),
+        url('https://Mars4me.github.io/weather-pwa/images/bg.webp');
     background-size: cover;
     background-position: center;
 }
